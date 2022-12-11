@@ -1,0 +1,19 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+body {display: inline-block; margin: 0px 200px auto; }
+
+div,input,label,option,select{
+    margin-top: 10px;}
+
+    input[type=text],input[type=email]{
+        width: 55%;
+        height: 25px;
+    }
+
+    p{font-size: 22px;}
+
+    h1{font-size: 45px; margin-bottom: 10px;}
+
+    textarea{overflow-y: scroll;
+    resize: none;
+    }
